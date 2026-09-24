@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <body>
+            <section1>
+                <H1>CSE</H1>
+                <section style="background-color:grey;width:100%;padding:10px;height: 15px;display: inline;"></section>
+                
+            </section1>
+            <section2>
+                <H2>CYS</H2>
+                <section style="background-color:blue;width:100%;padding:10px;height:28px;display:inline;"></section>
+            </section2>
+            <setion3>
+                <H3>ECE</H3>
+                <section style="background-color:white;width:100%;padding:10px;height:250px;display: inline;"></section>
+            </setion3>
+            <section4>
+                <h4>CSBS</h4>
+                <section style="background-color:white;width:100%;padding:10px;height:300px;display: inline;"></section>
+            </section4>
+            <section5>
+                <H5>EEE</H5>
+                <section style="background-color:darkblue;width:100%;padding:10px;height:150px;display: inline;"></section>
+            </section5>
+        </body>
+    </head>
+</html>
